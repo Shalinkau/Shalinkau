@@ -67,14 +67,18 @@ I'm **SHALIN**, a **CS student** based in **Chennai, India**, passionate about b
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shalinkau&show_icons=true&theme=radical&hide_border=true" alt="Shalin's GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=Houria-hs&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+
 </p>
+
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shalinkau&bg_color=00000000&color=FF69B4&line=EF93C4&point=F8BBD0&area_color=F8BBD0&title_color=FF69B4&hide_border=true&custom_title=Shalin+Contribution+Graph" alt="Shalin's Activity Graph" width="100%"/>
-</p>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
+
+</p>
 
 <!-- ============ CONTRIBUTION SNAKE ============ -->
 ## 🐍 Contribution Snake
@@ -102,11 +106,8 @@ I'm **SHALIN**, a **CS student** based in **Chennai, India**, passionate about b
 
 <!-- ============ FOOTER (PURPLE VAMPIRE THEME) ============ -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,40:2A085C,80:5A189A,100:9D4EDD&height=200&section=footer&text=FIN&fontSize=35&fontAlign=80&fontColor=E0AAFF&animation=twinkling&desc=Venture+Not+Into+The+Light&descSize=12&descAlign=80&descColor=C77DFF"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0AAFF,50:C77DFF,100:7B2CBF&height=200&section=footer&text=FIN&fontSize=35&fontAlign=80&fontColor=ffffff&animation=fadeIn&desc=Until+We+Meet+Again,+Mortal&descSize=12&descAlign=80&descColor=ffffff"/>
-    <img alt="Purple Gothic Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:2A085C,100:9D4EDD&height=200&section=footer&text=FIN" width="100%"/>
-  </picture>
+  </p>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>
 </p>
-
 </div>
