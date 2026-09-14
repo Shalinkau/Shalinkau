@@ -2,9 +2,8 @@
 
 <!-- ============ BANNER ============ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2A0A18,100:FF69B4&height=230&section=header" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,100:EF93C4&height=230&section=header" />
-  <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,100:EF93C4&height=230&section=header" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png" />
+  <img alt="Logo for Shalinkau" src="art/header-light.png" width="100%" />
 </picture>
 
 <!-- ============ TITLE ============ -->
