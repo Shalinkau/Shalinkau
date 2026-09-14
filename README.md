@@ -7,20 +7,14 @@
 </picture>
 
 <!-- ============ TITLE ============ -->
-# Hey there, I'm [SHALIN] 👋
+# Qué pasa?, I'm SHALIN 🧛
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&lines=%5BFull-Stack+Developer%5D;%5BOpen-Source+Enthusiast%5D;%5BBuilding+Cool+Things+%F0%9F%9A%80%5D;%5BAlways+Learning+Something+New%5D" alt="Typing SVG"/>
 
 *[A short one-line tagline about who you are and what you love building.]*
 
 <!-- ============ PROFILE BADGES ============ -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/[SHALINKAU]?label=Followers&style=for-the-badge&color=FF69B4&labelColor=1a1a1a&logo=github&logoColor=white" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/[SHALINKAU]?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a&logo=github&logoColor=white" alt="GitHub Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=[SHALINKAU]&label=Profile+Views&style=for-the-badge&color=EF93C4" alt="Profile Views"/>
-</p>
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3"/>
 
 <!-- ============ ABOUT ME ============ -->
 ## 🚀 About Me
@@ -29,19 +23,16 @@
 <tr>
 <td width="65%" valign="top" align="left">
 
-I'm **[SHALIN]**, a **[Your Role — e.g. Full-Stack Developer]** based in **[Your City, Country]**, passionate about building clean, efficient, and user-focused software.
+I'm **SHALIN**, a **CS student** based in **chennai, india**, passionate about building clean, efficient, and user-focused software.
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Currently learning **[Your Current Skill / Framework]**
-- 👯 Looking to collaborate on **[Your Area of Interest]**
-- 💬 Ask me about **[Your Domain of Expertise]**
-- ⚡ Fun fact: **[Your Fun Fact]**
-- 📫 Reach me at **[your.email@example.com]**
+- 🔭 Currently working on **[IMAGE ENCRYPTION]**
+- 🌱 Currently learning **[VERCEL HOSTING]**
+- 📫 Reach me at **[shalinkau@GMAIL.com]**
 
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://github.com/[SHALINKAU].png" width="220" alt="[SHALIN]'s avatar" style="border-radius:50%;border:4px solid #EF93C4;"/>
+<img src="https://github.com/[shalinkau].png" width="220" alt="[SHALIN]'s avatar" style="border-radius:50%;border:4px solid #EF93C4;"/>
 
 </td>
 </tr>
@@ -89,9 +80,9 @@ I'm **[SHALIN]**, a **[Your Role — e.g. Full-Stack Developer]** based in **[Yo
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[SHALINKAU]/[SHALINKAU]/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[SHALINKAU]/[SHALINKAU]/output/github-contribution-grid-snake.svg" />
-    <img alt="[SHALIN]'s contribution snake animation" src="https://raw.githubusercontent.com/[SHALINKAU]/[SHALINKAU]/output/github-contribution-grid-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[shalinkau]/[shalinkau]/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[shalinkau]/[shalinkau]/output/github-contribution-grid-snake.svg" />
+    <img alt="[SHALIN]'s contribution snake animation" src="https://raw.githubusercontent.com/[shalinkau]/[shalinkau]/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </p>
 
@@ -145,13 +136,10 @@ Save this as `.github/workflows/snake.yml`, push to `main`, and it keeps itself 
 ## 💌 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]" target="_blank">
+  <a href="https://www.linkedin.com/in/shalin-k/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/[YOUR-INSTAGRAM-USERNAME]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:[your.email@example.com]" target="_blank">
+  <a href="mailto:[SHALINKAU@GMAIL.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
