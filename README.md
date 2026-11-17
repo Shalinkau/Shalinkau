@@ -76,7 +76,7 @@ I'm **SHALIN**, a **CS student** based in **Chennai, India**, passionate about b
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shalinkau&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
 
 </p>
 
